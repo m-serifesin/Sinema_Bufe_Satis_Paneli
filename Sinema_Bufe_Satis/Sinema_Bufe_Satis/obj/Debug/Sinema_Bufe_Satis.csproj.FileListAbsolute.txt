@@ -1,0 +1,11 @@
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.exe.config
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.exe
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.pdb
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.AssemblyReference.cache
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.SuggestedBindingRedirects.cache
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.Form1.resources
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.Properties.Resources.resources
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.GenerateResource.cache
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.CoreCompileInputs.cache
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.exe
+D:\udemy_c#\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.pdb
